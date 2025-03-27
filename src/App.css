@@ -1,0 +1,35 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 100px; 
+  margin: auto;
+}
+
+.grid-item {
+  background-color: #f0f0f0;
+  text-align: center;
+}
+
+.banned {
+
+}
+
+button {
+  margin: 4px;
+}
+
+.container-items {
+  overflow: auto;
+  background-color: rgba(182, 134, 15, 0.548);
+  border-radius: 1.5rem;
+  width: 20rem;
+  padding: 15px;
+  height: 35rem;
+}
