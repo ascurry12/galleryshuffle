@@ -2,7 +2,7 @@
 
 Submitted by: **Aniyah Curry**
 
-This web app: **insert description**
+This web app: **Allows users to look at random pieces of artwork pulled from the Artsy API**
 
 Time spent: **6** hours spent in total
 
