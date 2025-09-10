@@ -41,7 +41,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-[Imgur link (if GIF does not appear)](https://imgur.com/a/galleryshuffle-5M4DwlL)
+[Imgur link](https://imgur.com/a/galleryshuffle-5M4DwlL)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
